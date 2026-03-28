@@ -1,14 +1,14 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Finstar - S.A',
+        company: 'ZAP | Finstar - S.A ',
         jobtitle: 'Full stack web Developer',
         startYear: '2017',
         endYear: '2020'
     },
     {
         id: 2,
-        company: 'Finstar - S.A',
+        company: 'ZAP | Finstar - S.A',
         jobtitle: 'Back-End Developer',
         startYear: '2020',
         endYear: '2024'
@@ -23,7 +23,7 @@ export const experienceData = [
     {
         id: 4,
         company: 'Instituto de Quimica - USP',
-        jobtitle: 'Bolsista',
+        jobtitle: 'Colaborador Acadêmico em Pesquisa',
         startYear: '2025',
         endYear: 'Presente'
     },
