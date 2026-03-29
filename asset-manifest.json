@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nanykuzola.github.io-portifolio/static/css/main.ef3546bf.css",
-    "main.js": "/nanykuzola.github.io-portifolio/static/js/main.9854f1f3.js",
+    "main.js": "/nanykuzola.github.io-portifolio/static/js/main.0da4d78c.js",
     "static/js/453.c7b07739.chunk.js": "/nanykuzola.github.io-portifolio/static/js/453.c7b07739.chunk.js",
     "static/media/four.svg": "/nanykuzola.github.io-portifolio/static/media/four.797cac62273af3693cd624c5f58e33b5.svg",
     "static/media/three.svg": "/nanykuzola.github.io-portifolio/static/media/three.d4f751d1b799f45195a256c314211dfe.svg",
@@ -14,7 +14,7 @@
     "static/media/expPink.svg": "/nanykuzola.github.io-portifolio/static/media/expPink.40a7690a4f1db23209db1a06c4b8c10a.svg",
     "static/media/expPurple.svg": "/nanykuzola.github.io-portifolio/static/media/expPurple.96a6bf6351cdcf2af2a140c708d9912b.svg",
     "static/media/expYellow.svg": "/nanykuzola.github.io-portifolio/static/media/expYellow.22be417c6d1c281c3b4b6ee0e80f0a5f.svg",
-    "static/media/meucv.pdf": "/nanykuzola.github.io-portifolio/static/media/meucv.2527106346cbe58b4da3.pdf",
+    "static/media/_Nany_Antonio_db.pdf": "/nanykuzola.github.io-portifolio/static/media/_Nany_Antonio_db.f12884526fe5a1e7359c.pdf",
     "static/media/five.svg": "/nanykuzola.github.io-portifolio/static/media/five.89b924ebc79f37d920813b8e786786ba.svg",
     "static/media/seven.svg": "/nanykuzola.github.io-portifolio/static/media/seven.3168c0a56a95f988490da0dc09e72c52.svg",
     "static/media/two.svg": "/nanykuzola.github.io-portifolio/static/media/two.721a06723367c73fc2cee44b09f50c67.svg",
@@ -144,11 +144,11 @@
     "static/media/vuetifyjs.svg": "/nanykuzola.github.io-portifolio/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/nanykuzola.github.io-portifolio/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.ef3546bf.css.map": "/nanykuzola.github.io-portifolio/static/css/main.ef3546bf.css.map",
-    "main.9854f1f3.js.map": "/nanykuzola.github.io-portifolio/static/js/main.9854f1f3.js.map",
+    "main.0da4d78c.js.map": "/nanykuzola.github.io-portifolio/static/js/main.0da4d78c.js.map",
     "453.c7b07739.chunk.js.map": "/nanykuzola.github.io-portifolio/static/js/453.c7b07739.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef3546bf.css",
-    "static/js/main.9854f1f3.js"
+    "static/js/main.0da4d78c.js"
   ]
 }
