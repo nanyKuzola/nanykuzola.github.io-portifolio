@@ -49,6 +49,7 @@ function Projects() {
                 <div className="projects" id="projects" style={{backgroundColor: theme.secondary}}>
                     <div className="projects--header">
                         <h1 style={{color: theme.primary}}>Projectos</h1>
+                        <span>Nota: alguns projectos que foram desenvolvidos estão actualmente com os domínio fora do ar, neles passou-se a gestão para o cliente, porém, respositório git podem ser acessados para contacto com o código fonte.</span>
                     </div>
                     <div className="projects--body">
                         <div className="projects--bodyContainer">

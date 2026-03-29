@@ -17,11 +17,18 @@ export const experienceData = [
         id: 3,
         company: 'AIA',
         jobtitle: 'Web Master',
-        startYear: '2025',
-        endYear: 'Presente'
+        startYear: '2024',
+        endYear: '2025'
     },
     {
         id: 4,
+        company: 'CASSETE ESTUDIO',
+        jobtitle: 'Web Master',
+        startYear: '2025',
+        endYear: '2025'
+    },
+    {
+        id: 5,
         company: 'Instituto de Quimica - USP',
         jobtitle: 'Colaborador Acadêmico em Pesquisa',
         startYear: '2025',

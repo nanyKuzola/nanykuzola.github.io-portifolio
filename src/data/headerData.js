@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/meucv.pdf'
+import resume from '../assets/pdf/_Nany_Antonio_db.pdf'
 
 export const headerData = {
     name: 'Nany António',
