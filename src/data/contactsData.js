@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'nany.pedro@hotmail.com',
+    email: 'kuzolanany@gmail.com',
     phone: '+5512997733224',
     address: 'Brazil - SP | Brigadeiro Tobias 300',
 
